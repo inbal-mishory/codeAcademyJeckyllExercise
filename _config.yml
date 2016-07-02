@@ -9,7 +9,7 @@
 title: My Jekyll Blog
 email: mishory@gmail.com
 description: "an exercise i did for codeacademy afforded me a new static blog, this Jekyll based website, how about that!"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "http://inbalmishory.net" # the subpath of your site, e.g. /blog
 url: "http://inbalmishory.net" # the base hostname & protocol for your site
 twitter_username: inbalmishory
 github_username:  inbal-mishory
