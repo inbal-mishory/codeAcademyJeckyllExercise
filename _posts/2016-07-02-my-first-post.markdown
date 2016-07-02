@@ -6,4 +6,4 @@ categories: jekyll update
 published: true
 ---
 First Post! hope this works.
-![](http://i.imgur.com/IEKF3ma.gifv)
+![](/http://i.imgur.com/IEKF3ma.gif)
