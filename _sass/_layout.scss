@@ -177,10 +177,23 @@
 
 .post-list {
     margin-left: 0;
-    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1%;
 
-    > li {
+    > article {
         margin-bottom: $spacing-unit;
+        background: #e8e8e8;
+        border-radius: .2em;
+        padding: 1em;
+
+        > h2 {
+          text-align: center;
+        }
+
+        > time {
+          text-align: right;
+        }
     }
 }
 
@@ -238,5 +251,9 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    img {
+      max-width: 60%;
     }
 }

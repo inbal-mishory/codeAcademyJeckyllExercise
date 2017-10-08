@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This little blog came about while doing some git and jekyll exercise for [codecademy](https://www.codecademy.com/).
-Hopefully now and again I will update it.
+I'm Inbal Mishory...
+Front end developer...
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /

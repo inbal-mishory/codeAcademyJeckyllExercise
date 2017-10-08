@@ -1,0 +1,23 @@
+{
+  "name": "inbal-mishory",
+  "version": "1.0.0",
+  "description": "Jekyll blog",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch _sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inbal-mishory/inbal-mishory.github.io.git"
+  },
+  "author": "Inbal Mishory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inbal-mishory/inbal-mishory.github.io/issues"
+  },
+  "homepage": "https://github.com/inbal-mishory/inbal-mishory.github.io#readme",
+  "dependencies": {
+    "latest-version": "^3.1.0"
+  }
+}
