@@ -9,10 +9,10 @@
 title: My bleeding dev blog
 email: mishory@gmail.com
 description: "My thoughts about web development, some links to articles and hopefully projects."
-baseurl: "http://inbalmishory.net" # the subpath of your site, e.g. /blog
-url: "http://inbalmishory.net" # the base hostname & protocol for your site
-# baseurl: "/_site"
-# url: "http://127.0.0.1:4000/_site/"
+# baseurl: "http://inbalmishory.net" # the subpath of your site, e.g. /blog
+# url: "http://inbalmishory.net" # the base hostname & protocol for your site
+baseurl: "/_site"
+url: "http://127.0.0.1:4000/_site/"
 twitter_username: inbalmishory
 github_username:  inbal-mishory
 defaults:

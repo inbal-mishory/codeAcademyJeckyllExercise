@@ -185,6 +185,8 @@
         margin-bottom: $spacing-unit;
         background: #e8e8e8;
         border-radius: .2em;
+        display: flex;
+        flex-direction: column;
         padding: 1em;
 
         > h2 {
@@ -193,6 +195,13 @@
 
         > time {
           text-align: right;
+        }
+        
+        > .imageWrap {
+            height: 40%;
+            > img {
+                align-self: flex-end;
+            }
         }
     }
 }
